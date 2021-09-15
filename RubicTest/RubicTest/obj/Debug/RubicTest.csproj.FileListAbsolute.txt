@@ -1,0 +1,9 @@
+C:\Users\StudentDev\Documents\GitHub\RubicTest\RubicTest\bin\Debug\RubicTest.exe.config
+C:\Users\StudentDev\Documents\GitHub\RubicTest\RubicTest\bin\Debug\RubicTest.exe
+C:\Users\StudentDev\Documents\GitHub\RubicTest\RubicTest\bin\Debug\RubicTest.pdb
+C:\Users\StudentDev\Documents\GitHub\RubicTest\RubicTest\obj\Debug\RubicTest.csprojAssemblyReference.cache
+C:\Users\StudentDev\Documents\GitHub\RubicTest\RubicTest\obj\Debug\RubicTest.Properties.Resources.resources
+C:\Users\StudentDev\Documents\GitHub\RubicTest\RubicTest\obj\Debug\RubicTest.csproj.GenerateResource.cache
+C:\Users\StudentDev\Documents\GitHub\RubicTest\RubicTest\obj\Debug\RubicTest.csproj.CoreCompileInputs.cache
+C:\Users\StudentDev\Documents\GitHub\RubicTest\RubicTest\obj\Debug\RubicTest.exe
+C:\Users\StudentDev\Documents\GitHub\RubicTest\RubicTest\obj\Debug\RubicTest.pdb
